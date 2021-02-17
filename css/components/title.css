@@ -2,5 +2,6 @@ h1 {
     font-family: 'Big Shoulders Display', sans-serif;
     font-size: 40px;
     color: #E0E0E0;
-    text-shadow: 4px 4px 0px #000;   
+    text-shadow: 4px 4px 3px #000;  
+    margin-bottom: 28px; 
 }
