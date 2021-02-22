@@ -1,0 +1,16 @@
+.skill-tech {
+    display: flex;
+    font-size: 25px;
+    color: #000;
+    margin-top: 40px;
+}
+
+.skill-tech .icon {
+    margin-right: 25px;
+}
+
+.skill-tech .right {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
