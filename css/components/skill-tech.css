@@ -1,5 +1,6 @@
 .skill-tech {
     display: flex;
+    align-items: center;
     font-size: 25px;
     color: #000;
     margin-top: 40px;
@@ -7,10 +8,16 @@
 
 .skill-tech .icon {
     margin-right: 25px;
+    width: 80px;
+    height: 80px;
 }
 
 .skill-tech .right {
     display: flex;
     flex-direction: column;
     justify-content: space-around;
+}
+
+.skill-tech .title {
+    margin-bottom: 16px;
 }
